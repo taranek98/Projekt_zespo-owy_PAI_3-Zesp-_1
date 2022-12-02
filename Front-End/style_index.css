@@ -1,0 +1,74 @@
+#main-container
+{
+    background-color: gray;
+    width: auto;
+    min-height: 1000px;
+}
+
+#form-container
+{
+    background-color:rgb(206, 171, 125);
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button_submit
+{
+    height: 40px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+    
+    background-color: coral;
+}
+
+#header
+{
+    background-color: orange;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title
+{
+    float: right;
+    padding-right: 130px;
+    padding-top: 30px;
+    /* font-style: italic; */
+    font-family:Bradley Hand, cursive;
+    font-size: 45px;
+}
+
+#form-elements
+{
+    padding-top: 200px;
+    padding-right: 120px;
+    float: right;
+}
+
+.label
+{
+    font-size: 22px;
+}
+
+.field
+{
+    height: 28px;
+    font-size: 18px;
+}
+
+#motto
+{
+    padding-top: 300px;
+    padding-left: 55px;
+    float:left;
+    font-size: 35px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
